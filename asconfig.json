@@ -1,0 +1,21 @@
+{
+	"config": "air",
+	"compilerOptions": {
+		"source-path": [
+			"src"
+		],
+		"library-path": [
+			"libs"
+		],
+		"output": "bin/gmusicforvisualcode.swf",
+		"default-background-color": "#ffffff",
+		"default-frame-rate": 24,
+		"default-size": {
+			"width": 1400,
+			"height": 1400
+		},
+		"swf-version": 21
+	},
+	"application": "src/gmusicforvisualcode-app.xml",
+	"mainClass": "Index"
+}
